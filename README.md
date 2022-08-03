@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# World Weather Analysis
 
 ## Project Overview
 The purpose of this project was to retrieve weather data from across the globe by randomly generating 2,000 locations using longitude and latitude. Once this data was aggregated, the next step was to create a travel destinations map (based on customer input) and design a travel itinerary map taking those customer inputs into consideration. The weather data used for this project was based on API calls made on Tuesday, August 2nd, 2022. 
